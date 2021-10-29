@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alessandra aka *Bhoken*!
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alessandra aka *Bhoken*!</h1>
 
 I'm a passionate Full Stack Developer, with a twist of Big Data, who lives in Naples, Italy! I like food, especially pizza! 🍕
 I currently work in Innovery, a italian-based company.
@@ -32,6 +32,7 @@ I currently work in Innovery, a italian-based company.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm&logoColor=ffffff)
 
 ## 📈 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoken94&show_icons=true&theme=dracula)
-
-![bhoken94's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoken94&show_icons=true&theme=dracula)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoken94&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoken94&show_icons=true&theme=dracula">
+</div>
