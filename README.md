@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alessandra aka *Bhoken*!</h1>
 
 I'm a passionate Full Stack Developer, with a twist of Big Data, who lives in Naples, Italy! I like food, especially pizza! 🍕
-I currently work in Innovery, a italian-based company.
+I currently work in Atos as Software Developer!
 
 [![](https://img.shields.io/badge/-@bhoken94-%23181717?style=flat-square&logo=github)](https://github.com/bhoken94)
 [![](https://img.shields.io/badge/-@bhoken94-0c69bf?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alessandra-santomassimo/)
