@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer, with a twist of Big Data, who lives in Na
 I currently work in Lutech as Full Stack Developer!
 
 [![](https://img.shields.io/badge/-@bhoken94-%23181717?style=flat-square&logo=github)](https://github.com/bhoken94)
-[![]([https://img.shields.io/badge/-@bhoken94-0c69bf?style=flat-square&logo=linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)))](https://www.linkedin.com/in/alessandra-santomassimo/)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandra-santomassimo/)
 
 
 # 💻 Tech Stack:
